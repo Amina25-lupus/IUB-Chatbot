@@ -1,0 +1,15 @@
+{
+  "retrieval": {
+    "hit@1": 0.7,
+    "hit@3": 0.9,
+    "hit@5": 0.95,
+    "MRR": 0.8125
+  },
+  "generation": {
+    "keyword_recall (answerable)": 0.817,
+    "full_keyword_match_rate": 0.6,
+    "false_refusal_rate (answerable)": 0.0,
+    "correct_refusal_rate (unanswerable)": 0.5833333333333334,
+    "avg_latency_s": 19.6009375
+  }
+}

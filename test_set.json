@@ -1,0 +1,360 @@
+[
+  {
+    "question": "What is the total tuition fee for the first semester of the M.Phil/MS program?",
+    "answer": "The total tuition fee for the first semester of the M.Phil/MS program is 85590.",
+    "source": "Revised fee.docx",
+    "evidence": "total fee for 1st semester 85590",
+    "keywords": [
+      "M.Phil/MS",
+      "85590"
+    ],
+    "answerable": true,
+    "id": 1
+  },
+  {
+    "question": "How many departments does the University of Baghdad-ul-Jadeed currently offer?",
+    "answer": "The University of Baghdad-ul-Jadeed currently offers 45 departments.",
+    "source": "why iub .docx",
+    "evidence": "The University was started with ten departments and now this number has increased to 45 offering 74 disciplines.",
+    "keywords": [
+      "45",
+      "departments"
+    ],
+    "answerable": true,
+    "id": 2
+  },
+  {
+    "question": "How can I pay the application fee after selecting my test?",
+    "answer": "After selecting your test, the challan (payment slip) will appear in your account dashboard. You can then download and print the challan, then pay the fee. After payment, upload a scanned copy or photo of the paid challan to the portal.",
+    "source": "testing service guide.docx",
+    "evidence": "After payment, upload a scanned copy or photo of the paid challan to the portal using the \"Upload Challan\" option.",
+    "keywords": [
+      "challan",
+      "payment",
+      "upload challan"
+    ],
+    "answerable": true,
+    "id": 3
+  },
+  {
+    "question": "What is the total tuition fee for the first semester of the M.Phil/MS (Evening) program?",
+    "answer": "The total tuition fee for the first semester of the M.Phil/MS (Evening) program is 85590.",
+    "source": "Revised fee.docx",
+    "evidence": "total fee for 1st semester 85590",
+    "keywords": [
+      "M.Phil/MS (Evening)"
+    ],
+    "answerable": true,
+    "id": 4
+  },
+  {
+    "question": "What is the total tuition fee for the second semester of the M.Phil/MS program?",
+    "answer": "The total tuition fee for the second semester of the M.Phil/MS program is 60000.",
+    "source": "Revised fee.docx",
+    "evidence": "total fee for 2nd & other semesters 60000",
+    "keywords": [
+      "M.Phil/MS",
+      "60000"
+    ],
+    "answerable": true,
+    "id": 5
+  },
+  {
+    "question": "What are the types of sample questions available on the portal for applicants to prepare for the exam?",
+    "answer": "Sample tests on the portal include preview quizzes that simulate the actual test environment. These quizzes cover the subjects outlined in the syllabus.",
+    "source": "testing service guide.docx",
+    "evidence": "sample questions cover the subjects outlined in the syllabus.",
+    "keywords": [
+      "sample questions",
+      "preview quizzes",
+      "subjects"
+    ],
+    "answerable": true,
+    "id": 6
+  },
+  {
+    "question": "What is the total tuition fee for the second semester for the BS Supply Chain Management (Group-A) program?",
+    "answer": "The total tuition fee for the second semester for the BS Supply Chain Management (Group-A) program is 55380.",
+    "source": "Revised fee.docx",
+    "evidence": "total fee for 2nd & other semesters 55380",
+    "keywords": [
+      "BS Supply Chain Management",
+      "Group-A",
+      "total fee"
+    ],
+    "answerable": true,
+    "id": 7
+  },
+  {
+    "question": "What is the maximum deduction in marks allowed for each year lost in the admission process for the BSc Engineering program?",
+    "answer": "The maximum deduction in marks allowed for each year lost in the BSc Engineering program is 40 marks.",
+    "source": "merit determination.docx",
+    "evidence": "However, in case of each year lost, 5 marks shall be deducted from total marks obtained in last qualifying exam i.e, FA/FSc, or BA/BSc or equivalent examinations",
+    "keywords": [
+      "BSc Engineering",
+      "40 marks"
+    ],
+    "answerable": true,
+    "id": 8
+  },
+  {
+    "question": "What are the minimum CGPA or marks required for admission to the 1.5-year BS.Ed program?",
+    "answer": "The minimum CGPA or marks required for admission to the 1.5-year BS.Ed program is 2.00/4.00 or 45% marks under the annual system.",
+    "source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "evidence": "The 1.5-year BS.Ed spanning 3 semesters is for candidates after MSc or BS Science",
+    "keywords": [
+      "BS.Ed",
+      "2.00/4.00",
+      "45%"
+    ],
+    "answerable": true,
+    "id": 9
+  },
+  {
+    "question": "How many departments were established at the Bahawalnagar and Rahim Yar Khan Campuses in 2005?",
+    "answer": "Two departments, Management Sciences and Computer Science & Information Technology, were established at the Bahawalnagar and Rahim Yar Khan Campuses in 2005.",
+    "source": "researved seats.docx",
+    "evidence": "In order to provide opportunities of higher education to the youth at their door step, two campuses were established at Rahim Yar Khan and Bahawalnagar in 2005.",
+    "keywords": [
+      "Bahawalnagar",
+      "Rahim Yar Khan",
+      "2005"
+    ],
+    "answerable": true,
+    "id": 10
+  },
+  {
+    "question": "When does Batch 24 take place, and what is the expected test date range?",
+    "answer": "Batch 24 takes place from December 14th to 20th, with expected test dates between December 24th and 28th.",
+    "source": "IUB Special Test Schedule1.docx",
+    "evidence": "Batch 24, the final session, with applications from December 14th to 20th and expected test dates between December 24th and 28th.",
+    "keywords": [
+      "Batch 24",
+      "December 14th",
+      "December 24th"
+    ],
+    "answerable": true,
+    "id": 11
+  },
+  {
+    "question": "What is the minimum mark requirement for a Bachelor's Degree to be eligible for postgraduate classes at the University?",
+    "answer": "Candidates must have passed a Bachelor's Degree from this University or an equivalent examination from a recognized university with at least a second division or equivalent.",
+    "source": "merit determination.docx",
+    "evidence": "Subject to the provision of clause and below only those candidates who have passed the Bachelor's Degree from this University or equivalent examination of a recognized University at least in 2nd division or otherwise mentioned, shall be eligible for admission to the postgraduate classes.",
+    "keywords": [
+      "second division",
+      "Bachelor's Degree"
+    ],
+    "answerable": true,
+    "id": 12
+  },
+  {
+    "question": "What are the minimum academic qualifications required for admission to the English Linguistics Department's Diploma in TEFL program?",
+    "answer": "Applicants must hold a BS, MA, or equivalent degree for admission to the Diploma in TEFL program at the English Linguistics Department.",
+    "source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "evidence": "Applicants must hold a BS, MA, or equivalent degree, and merit is likewise determined by percentage of obtained marks.",
+    "keywords": [
+      "Diploma in TEFL",
+      "BS, MA, or equivalent"
+    ],
+    "answerable": true,
+    "id": 13
+  },
+  {
+    "question": "When was Jamia Abbasia established and what was its original purpose?",
+    "answer": "Jamia Abbasia was established in 1925 and served as a religious university, continuing the tradition of higher learning from Uch Sharif.",
+    "source": "researved seats.docx",
+    "evidence": "As a continuation of this tradition a religious University (Jamia Abbasia) was established in Bahawalpur in 1925, following the academic pursuits of Jamia Al-Azhar, Egypt.",
+    "keywords": [
+      "1925",
+      "religious university"
+    ],
+    "answerable": true,
+    "id": 14
+  },
+  {
+    "question": "What is the last date to apply for admission to the Forestry / Food Science and Technology program at the International Islamic University (IIU)?",
+    "answer": "The last date to apply for admission to the Forestry / Food Science and Technology program at the International Islamic University (IIU) is January 23, 2026.",
+    "source": "spring 26 admissions .docx",
+    "evidence": "Last Date to ApplyJanuary 23, 2026",
+    "keywords": [
+      "January 23, 2026"
+    ],
+    "answerable": true,
+    "id": 15
+  },
+  {
+    "question": "What are the minimum requirements for the password on the IUB E-Portal sign-up form?",
+    "answer": "The password must be at least 8 characters long, contain at least one uppercase letter, one lowercase letter, one number, and both passwords must match.",
+    "source": "testing service guide.docx",
+    "evidence": "The password must meet the following requirements: it must be at least 8 characters long, contain at least one uppercase letter, one lowercase letter, one number, and both passwords must match.",
+    "keywords": [
+      "8 characters",
+      "uppercase letter",
+      "lowercase letter",
+      "number"
+    ],
+    "answerable": true,
+    "id": 16
+  },
+  {
+    "question": "When was Jamia Abbasia established, and what was its initial purpose?",
+    "answer": "Jamia Abbasia was established in 1925, and it was a religious university that continued the tradition of higher learning from Uch Sharif.",
+    "source": "why iub .docx",
+    "evidence": "As a continuation of this tradition a religious University (Jamia Abbasia) was established in Bahawalpur in 1925",
+    "keywords": [
+      "1925",
+      "religious university"
+    ],
+    "answerable": true,
+    "id": 17
+  },
+  {
+    "question": "How are applicants' marks determined in case of a tie in the application process?",
+    "answer": "Applicants' marks are determined in a tie by first adding the total marks from the Intermediate examination and then, if necessary, adding the total marks from the Matriculation examination to the total marks from the BA/BSc or equivalent examination.",
+    "source": "merit determination.docx",
+    "evidence": "In case of tie among the applicants, merit shall be determined firstly after adding the total marks obtained in the Intermediate examination and secondly, if the tie still persists, by adding total marks obtained in the Matriculation examination to the total marks obtained in BA/BSc or equivalent examination.",
+    "keywords": [
+      "Intermediate examination",
+      "Matriculation examination",
+      "BA/BSc"
+    ],
+    "answerable": true,
+    "id": 18
+  },
+  {
+    "question": "How many departments are there at the Bahawalnagar and Rahim Yar Khan campuses now?",
+    "answer": "The number of Departments at Bahawalnagar and Rahim Yar Khan Campuses have been increased to seven and six, respectively.",
+    "source": "why iub .docx",
+    "evidence": "The number of Departments at Bahawalnagar and Rahim Yar Khan Campuses have been increased to seven and six, respectively.",
+    "keywords": [
+      "Bahawalnagar",
+      "Rahim Yar Khan",
+      "seven",
+      "six"
+    ],
+    "answerable": true,
+    "id": 19
+  },
+  {
+    "question": "What is the phone number for the Directorate of Information Technology?",
+    "answer": "The Directorate of Information Technology can be reached at 062-9255858 or 062-9255062, and by email at admission@iub.edu.pk.",
+    "source": "contact .docx",
+    "evidence": "The Directorate of Information Technology handles general admission inquiries",
+    "keywords": [
+      "062-9255858",
+      "062-9255062",
+      "admission@iub.edu.pk"
+    ],
+    "answerable": true,
+    "id": 20
+  },
+  {
+    "question": "Who is the captain of the IUB cricket team?",
+    "answer": "Not in the documents. The bot should say it doesn't know.",
+    "source": "",
+    "evidence": "",
+    "keywords": [],
+    "answerable": false,
+    "id": 21
+  },
+  {
+    "question": "What is the Wi-Fi password of the IUB library?",
+    "answer": "Not in the documents. The bot should say it doesn't know.",
+    "source": "",
+    "evidence": "",
+    "keywords": [],
+    "answerable": false,
+    "id": 22
+  },
+  {
+    "question": "What is the fee structure of Punjab University Lahore?",
+    "answer": "Not in the documents. The bot should say it doesn't know.",
+    "source": "",
+    "evidence": "",
+    "keywords": [],
+    "answerable": false,
+    "id": 23
+  },
+  {
+    "question": "Can you recommend a good pizza place near the university?",
+    "answer": "Not in the documents. The bot should say it doesn't know.",
+    "source": "",
+    "evidence": "",
+    "keywords": [],
+    "answerable": false,
+    "id": 24
+  },
+  {
+    "question": "Who won the last FIFA World Cup?",
+    "answer": "Not in the documents. The bot should say it doesn't know.",
+    "source": "",
+    "evidence": "",
+    "keywords": [],
+    "answerable": false,
+    "id": 25
+  },
+  {
+    "question": "What is the weather in Bahawalpur tomorrow?",
+    "answer": "Not in the documents. The bot should say it doesn't know.",
+    "source": "",
+    "evidence": "",
+    "keywords": [],
+    "answerable": false,
+    "id": 26
+  },
+  {
+    "question": "How do I install Python on Windows?",
+    "answer": "Not in the documents. The bot should say it doesn't know.",
+    "source": "",
+    "evidence": "",
+    "keywords": [],
+    "answerable": false,
+    "id": 27
+  },
+  {
+    "question": "What is the capital of France?",
+    "answer": "Not in the documents. The bot should say it doesn't know.",
+    "source": "",
+    "evidence": "",
+    "keywords": [],
+    "answerable": false,
+    "id": 28
+  },
+  {
+    "question": "What is the phone number of the vice chancellor's personal secretary at Harvard University?",
+    "answer": "Not in the documents. The bot should say it doesn't know.",
+    "source": "",
+    "evidence": "",
+    "keywords": [],
+    "answerable": false,
+    "id": 29
+  },
+  {
+    "question": "Which bus company runs the IUB Bahawalpur to Karachi route and what is the ticket price?",
+    "answer": "Not in the documents. The bot should say it doesn't know.",
+    "source": "",
+    "evidence": "",
+    "keywords": [],
+    "answerable": false,
+    "id": 30
+  },
+  {
+    "question": "IUB mein cricket ground kitne acre ka hai aur uska booking charge kya hai?",
+    "answer": "Not in the documents. The bot should say it doesn't know.",
+    "source": "",
+    "evidence": "",
+    "keywords": [],
+    "answerable": false,
+    "id": 31
+  },
+  {
+    "question": "Mujhe aaj raat ke khane ke liye biryani ki recipe batao.",
+    "answer": "Not in the documents. The bot should say it doesn't know.",
+    "source": "",
+    "evidence": "",
+    "keywords": [],
+    "answerable": false,
+    "id": 32
+  }
+]

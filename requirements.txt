@@ -1,0 +1,34 @@
+# IUB Chatbot + Pipeline — complete requirements
+# Install with: pip install -r requirements.txt
+
+# Web scraping
+playwright==1.44.0
+beautifulsoup4==4.12.3
+requests==2.32.3
+
+# PDF extraction
+PyMuPDF==1.24.3
+
+# Dataset generation
+groq==0.9.0
+
+# Scheduling
+schedule==1.2.2
+
+# RAG pipeline (existing chatbot)
+langchain==0.2.0
+langchain-community==0.2.0
+langchain-huggingface==0.0.3
+langchain-text-splitters==0.2.0
+sentence-transformers==2.7.0
+faiss-cpu==1.8.0
+docx2txt==0.8
+
+# Local LLM
+ollama==0.2.1
+
+# UI
+streamlit==1.35.0
+
+# Utilities
+python-dotenv==1.0.1

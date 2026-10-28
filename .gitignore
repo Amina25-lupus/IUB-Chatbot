@@ -1,0 +1,29 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor
+.vscode/
+
+# Large model files (GitHub blocks files over 100 MB)
+model.gguf
+iub_model_gguf/
+*.gguf
+*.safetensors
+*.bin
+
+# Rebuildable / bulky data (recreate with scraper.py and ingest.py)
+faiss_index/
+scraped_pdfs/
+dataset/
+
+# Evaluation per-question output (keep test_set.json and the summary)
+eval_results_details.csv
